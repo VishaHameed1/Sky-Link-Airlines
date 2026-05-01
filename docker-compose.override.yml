@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  skylink-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - DOTNET_ENVIRONMENT=Development
+      - MONGODB_CONNECTION_STRING=mongodb://admin:admin123@mongodb:27017
+      - MONGODB_DATABASE=AirlineDB
+    volumes:
+      - ./:/app
+      - /app/bin
+      - /app/obj
+
+  mongodb:
+    volumes:
+      - ./backup:/backup
