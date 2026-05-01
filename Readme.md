@@ -546,7 +546,7 @@ furnished to do so, subject to the following conditions...
 
 ### Project Maintainer
 - **Name:** VISHA HAMEED
-- **Email:** vishahameed666@gmail.com
+- **Email:** vishahameed@gmail.com
 - **Roll Number:** 232201044
 - **University:** Institute of Space and Technology, Islamabad
 
