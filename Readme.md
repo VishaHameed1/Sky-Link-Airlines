@@ -1,6 +1,4 @@
-Here's a detailed `README.md` file for your Sky-Link Airlines Reservation System:
 
-```markdown
 # ✈️ Sky-Link Airlines Reservation System
 
 [![.NET Version](https://img.shields.io/badge/.NET-6.0-blue.svg)](https://dotnet.microsoft.com/)
@@ -587,23 +585,5 @@ If you found this project helpful, please give it a ⭐ on GitHub!
 **Made with ❤️ by VISHA HAMEED | Sky-Link Airlines**
 
 *Last Updated: May 2024*
-```
 
-This README.md file includes:
 
-1. ✅ **Professional badges** for version, license, etc.
-2. ✅ **Complete project overview** and features
-3. ✅ **Architecture diagrams** (ASCII art)
-4. ✅ **OOP concepts explained** with code examples
-5. ✅ **Installation guide** (local and Docker)
-6. ✅ **Database schema documentation**
-7. ✅ **User manual** for both customer and admin
-8. ✅ **API documentation** with methods
-9. ✅ **Testing results**
-10. ✅ **Project structure**
-11. ✅ **Future enhancements**
-12. ✅ **Contact information**
-13. ✅ **Acknowledgments**
-14. ✅ **Support badges**
-
-Simply copy this content into a file named `README.md` in your project root directory! 📝✨
